@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780258476895",
+    "project_id": "signalapp-f3a8b",
+    "storage_bucket": "signalapp-f3a8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780258476895:android:cd4d37d03a3fbf9e452cea",
+        "android_client_info": {
+          "package_name": "com.signalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780258476895-2ld2ojpjtl2g6v4oqcubev0amj4dmd9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT2t7b1JIh9gI5wul-tueTSbJ2iayFKPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780258476895-2ld2ojpjtl2g6v4oqcubev0amj4dmd9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
